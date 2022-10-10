@@ -8,8 +8,8 @@ def operation(a, b, c, d):
     result = a+b+c+d
     return result
 
-def operation2(a,b):
-    return a-b
+def #operation2(a,b):
+    return b-a
 # Execute main operation
 if __name__ == "__main__":
     op_result = operation(varA, varB, varC, varD)
